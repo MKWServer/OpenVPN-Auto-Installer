@@ -6,7 +6,7 @@ This script will let you setup your own VPN server in no more than a minute or t
 ### Installation
 Run the script and follow the assistant:
 
-`wget https://www.mkwserver.com/OpenVPN-Auto-Installer.sh -O OpenVPN-Auto-Installer.sh && bash OpenVPN-Auto-Installer.sh`
+`wget https://github.mkwserver.com/OpenVPN-Auto-Installer.sh -O OpenVPN-Auto-Installer.sh && bash OpenVPN-Auto-Installer.sh`
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
